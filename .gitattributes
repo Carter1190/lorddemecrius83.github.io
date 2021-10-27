@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 cydia/packages/*.deb filter=lfs diff=lfs merge=lfs -text
+cydia/files/com.lorddemecrius83.ddlc_1.1.0_iphoneos-arm.deb filter=lfs diff=lfs merge=lfs -text

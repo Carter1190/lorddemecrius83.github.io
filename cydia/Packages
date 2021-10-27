@@ -5,6 +5,6 @@ Architecture: iphoneos-arm
 Description: A Port of Doki Doki Literature Club using reniOS Support Libs
 Author: LordDemecrius83
 Maintainer: LordDemecrius83 <renzzuniga0@gmail.com>
-Filename: https://github.com/LordDemecrius83/DDLC-reniOS/releases/download/1.1.1/com.lorddemecrius83.ddlc_1.1.0_iphoneos-arm.deb
+Filename: ./files/com.lorddemecrius83.ddlc_1.1.0_iphoneos-arm.deb
 Depiction: https://lorddemecrius83.github.io/cydia/package/ddlc/depiction.php
 Section: DDLC-reniOS

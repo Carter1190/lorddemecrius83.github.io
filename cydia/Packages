@@ -1,57 +1,10 @@
-<html class="cytyle-flat">	<head>
-		<title>Alternate Music Icon · Ren's Cydia Repo</title>
-		<link rel="stylesheet" type="text/css" href="//cydia.saurik.com/cytyle/style-814ed94d029255e832932322f7cc9d7fb2de0071.css">
-		<script type="text/javascript" src="//cydia.saurik.com/cytyle/style-3c578a2a65b28de08a903cddcf2ea0feae341e61.js"></script>
-		<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
-		<style>b, strong { font-weight: bold !important; }</style>
-		<script type="text/javascript">var load=function(){var node=document.getElementById('depiction-src');var frame=window.frames['depiction'];try{node.height=frame.document.body.scrollHeight;node.style.height=frame.document.body.scrollHeight+"px";}catch(e){}};</script>
-		<style type="text/css">#header{position:relative;margin:9px}#icon{display:inline-block;vertical-align:top;height:64px;width:64px}#icon div{position:absolute;left:32px;font-size:0}#icon span{display:table-cell;vertical-align:middle;height:64px;line-height:normal}#icon img{position:relative;left:-25%;width:50%;-moz-border-radius:9px;-webkit-border-radius:9px}#content{display:inline-block;padding:6px;height:64px;width:233px;position:relative}#name{margin-bottom:8px;font-weight:bold;font-size:17px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}#latest{display:inline;color:#358}#extra{display:inline-block;color:#358;font-size:12px;position:absolute;bottom:6px;right:6px}#id,#contact{white-space:nowrap}iframe{width:100%}</style>
-		<meta property="og:title" content="Doki Doki Literature Club · Ren's Cydia Repo">
-		<meta property="og:type" content="website">
-		<meta property="og:image" content="https://cydia.invoxiplaygames.uk//img/alternatemusicicon.png">
-		<meta property="og:url" content="https://cydia.invoxiplaygames.uk/package/alternatemusicicon">
-		<meta property="og:description" content="Doki Doki Literature Club - version 1.1.0, available from Ren's Cydia Repo.">
-		<meta property="og:site_name" content="LordDemecrius83's Cydia Repo">
-		<meta name="keywords" content="Ren,LordDemecrius83,DDLC,Doki Doki Literature Club,Source,Download,Package">
-	</head>
-	<body class="pinstripe">
-	<panel>
-		<div id="header">
-			<img id="icon" src="/img/alternatemusicicon.png"></img>
-			<div id="content">
-				<p id="name">Alternate Music Icon</p>
-				<p id="latest">1.0</p>
-			</div>
-		</div>
-		<fieldset>
-			<a >
-				<img class="icon" src="//cydia.saurik.com/ui/ios/1.1/package/email.png">
-				<div>
-					<div>
-						<label><p>Author</p></label>
-						<label class="detail">
-							<p id="contact">InvoxiPlayGames</p>
-						</label>
-					</div>
-				</div>
-			</a>
-		</fieldset>
-		<iframe class="depiction" id="depiction-src" name="depiction" frameborder="0" height="9" target="_top" onload="load()" src="/dp/alternatemusicicon.php" style="height: 9px;"></iframe>
-		<fieldset>
-			<a href="/files/alternatemusicicon-1.0.deb">
-				<img class="icon" src="//cache.saurik.com/crystal/256x256/apps/ark.png">
-				<div>
-					<div>
-						<label><p>Download .DEB</p></label>
-					</div>
-				</div>
-			</a>
-		</fieldset>
-		<footer>
-			<p>
-				<span id="id">alternatemusicicon</span><br><span class="source-name">Ren's Cydia Repo</span>
-			</p>
-		</footer>
-	</panel>
-	</body>
-</html>
+Package: com.lorddemecrius83.ddlc
+Name: Doki Doki Literature Club!
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: A Port of Doki Doki Literature Club using reniOS Support Libs
+Author: LordDemecrius83
+Maintainer: LordDemecrius83 <renzzuniga0@gmail.com>
+Filename: https://github.com/LordDemecrius83/DDLC-reniOS/releases/download/1.1.1/com.lorddemecrius83.ddlc_1.1.0_iphoneos-arm.deb
+Depiction: https://lorddemecrius83.github.io/cydia/package/ddlc/depiction.php
+Section: DDLC-reniOS
